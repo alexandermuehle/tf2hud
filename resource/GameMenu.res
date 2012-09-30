@@ -37,14 +37,14 @@
 	}
 	"ServerButton6vs6"
 	{
-		"label" "Scoreboard 6 vs 6"
+		"label" "Scoreboard Medic"
 		"command" "engine cl_hud_minmode 1"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
 	}
 	"ServerButton12vs12"
 	{
-		"label" "Scoreboard 12 vs 12"
+		"label" "Scoreboard 6 vs 6"
 		"command" "engine cl_hud_minmode 0"
 		"subimage" "glyph_practice"
 		"OnlyAtMenu" "0"
